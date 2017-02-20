@@ -59,6 +59,8 @@ namespace DragDropColumns
             cusromers.Add(new Customer() { ID = 1, Name = "Name1" });
             cusromers.Add(new Customer() { ID = 2, Name = "Name2" });
             gridControl1.ItemsSource = cusromers;
+            int t=5;
+            t++;
         }
     }
 
